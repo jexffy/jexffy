@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @jexffy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div>
+ <img style="margin-bottom: 10px;" width="100%" src="https://media.discordapp.net/attachments/1111844716951126057/1121594929399992421/IMG_20230622_204915.png"/>
+</div>
+<div>
+  <h1 align="center">Hi there ✫</h1>
+  <p align="center">Hello, my name is <strong>Henrick</strong>. I'm 16 years old and I am an experienced <strong>TypeScript</strong> programmer.</p>
+</div>
 
-<!---
-jexffy/jexffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/jexffy/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jexffy&show_icons=true&theme=radical"/>
+</a>
